@@ -1,0 +1,6 @@
+@PersonaKeyCore.ApiLayer_HostAddress = http://localhost:5157
+
+GET {{PersonaKeyCore.ApiLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
