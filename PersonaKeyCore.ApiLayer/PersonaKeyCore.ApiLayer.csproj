@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\PersonaKeyCore.BusinessLogicLayer\PersonaKeyCore.BusinessLogicLayer.csproj" />
     <ProjectReference Include="..\PersonaKeyCore.DataAccessLayer\PersonaKeyCore.DataAccessLayer.csproj" />
     <ProjectReference Include="..\PersonaKeyCore.EntityLayer\PersonaKeyCore.EntityLayer.csproj" />
   </ItemGroup>
